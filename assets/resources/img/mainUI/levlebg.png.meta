@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "c1278691-4a4e-4736-9ad5-ac3ce958b17c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "levlebg": {
+      "ver": "1.0.4",
+      "uuid": "baa1b4e2-c189-4076-8091-46d8d038bd9d",
+      "rawTextureUuid": "c1278691-4a4e-4736-9ad5-ac3ce958b17c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 107,
+      "height": 102,
+      "rawWidth": 109,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

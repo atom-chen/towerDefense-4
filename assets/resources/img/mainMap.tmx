@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="layer1" tilewidth="64" tileheight="64">
+  <image source="grass1 #22284.png" trans="ff00ff" width="200" height="200"/>
+ </tileset>
+ <tileset firstgid="10" name="layer2" tilewidth="64" tileheight="64">
+  <image source="grass1 #40967.png" trans="ff00ff" width="200" height="200"/>
+ </tileset>
+ <layer name="layer" width="30" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt0jkOgEAMQ9GEHYb9/oflN5HSMhKuKF5jSymsuJk1aLGgYIV/nHfoMWDDjkOQj5gw48SFW5Art825ctucK7fNuXLb/5/rN4xO/c/Rqf85urd3HlvgDVc=
+  </data>
+ </layer>
+ <objectgroup name="level">
+  <object x="99" y="226"/>
+  <object x="151" y="349"/>
+  <object x="225" y="465"/>
+  <object x="304" y="475"/>
+  <object x="409" y="484"/>
+  <object x="499" y="428"/>
+  <object x="571" y="344"/>
+  <object x="625" y="265"/>
+  <object x="721" y="211"/>
+  <object x="856" y="191"/>
+  <object x="983" y="171"/>
+  <object x="1049" y="224"/>
+  <object x="1079" y="296"/>
+  <object x="1130" y="376"/>
+  <object x="1220" y="490"/>
+  <object x="1302" y="592"/>
+  <object x="1388" y="662"/>
+  <object x="1640" y="592"/>
+  <object x="1726" y="501"/>
+  <object x="1787" y="372"/>
+  <object x="1873" y="233"/>
+ </objectgroup>
+</map>
